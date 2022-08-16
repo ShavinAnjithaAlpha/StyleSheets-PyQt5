@@ -4,3 +4,8 @@ logs/
 
 # pycache files
 *.cpython*
+
+# IDLE FOLDERS
+.idea/
+*.xml
+
