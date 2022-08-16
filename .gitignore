@@ -1,0 +1,6 @@
+# LOG FILES
+*.log
+logs/
+
+# pycache files
+*.cpython*
